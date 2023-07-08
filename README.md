@@ -8,7 +8,7 @@ When you open the program, here is a list of options that you will see.
 ### Choose Image
 Clicking on this button will open a file dialog and let you choose a gif or image file. Of course, a gif file will have multiple frames while a png file will just have one frame. Lots of image formats probably work, I haven't tested it. 
 ### Gif Framerate/BPM
-The box on the left is the speed at which the frame of the gif will change. If you know the BPM of the audio (and want the gif to match up to that BPM), you can set the BPM on the right and it will automatically update the framerate box on the left. 
+The box on the left is the speed at which the frame of the gif will change. If you know the BPM of the audio (and want the gif to match up to that BPM), you can set the BPM on the right and it will automatically update the framerate box on the left. You can get the BPM to any piece of music fairly easily using a website like this: https://taptempo.io/ 
 ### Choose Audio
 Clicking on this button will open a file dialog and let you choose an audio file. This audio will play in the output video. It is assumed that the music will be longer than the gif. 
 ### BG Image
